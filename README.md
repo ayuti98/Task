@@ -11,7 +11,7 @@ chrome as web browser.
 javascript <br>
 Html
 
-# Insalling Software 
+# Installing Software 
 ### Node.js<br>
 on google type node.js<br>
 download the latest version i.e v12.18.3, based on windows or linux <br>
