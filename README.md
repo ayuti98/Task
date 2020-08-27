@@ -36,7 +36,7 @@ install it on your system<br>
  # Instruction for Running
  To run the expressService project:<br>
  firstly download zip folder on pc<br>
- Run server.bat file from the folde.<br>
+ Run server.bat file from the folder.<br>
  Then open browser and type localhost:8080.<br>
  Then you will see user interface  where you can perform cart functions.<br>
 
