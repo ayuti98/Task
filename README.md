@@ -33,6 +33,6 @@ The expressServices.html file is written to create html interface to let us disp
 9. .$(“ #show-cart”).on(“click”, “item-count” function(event)){});,in this we are adding event to input field so that when value in input field changes the query will execute showCountForItem() function  and displays.
 
 To run the expressService project
-Run server.bat
-Then open browser and type localhost:8080
+Run server.bat file from the folder.
+Then open browser and type localhost:8080.
 Then add items to the cart.
