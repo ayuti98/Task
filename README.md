@@ -1,4 +1,4 @@
-Shopping cart(expressServices):
+# Shopping cart
 I was given a mini project on shopping cart implementation using Node.js in which whenever a new item is added it should pushed onto the stack and if the  item with same are added then the count of that same item should be incremented as well as you should be able to delete the items you have added into the cart.
 
 For the implementation I have used the visual studio as text editor and chrome as web browser and keeping in mind user accessibility, I have designed a simple cart where you can add items by clicking on the item name or on + , as well as you can delete items using delete or can use - to pop out one item(==0,will delete) as well as you can clear the cart. You can also see the total number of  items in the cart as well as the total cart amount.
